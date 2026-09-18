@@ -1,5 +1,5 @@
 # AI-Projects-
-Collection of Data Analysis focused projects (e-commerce &amp; healthcare) from cleaning to dashboards and reporting. 
+Collection of Data Analysis focused projects (e-commerce &amp; Airline Loyalty Program) from cleaning to dashboards and reporting. 
 
 ## AI-Assisted Workflow
 
